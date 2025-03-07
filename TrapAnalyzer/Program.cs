@@ -60,7 +60,7 @@ namespace TrapAnalyzer
            if (survives) {
             Console.WriteLine($"Player survives {trap}");
            }
-           else {
+           else if (!survives) {
             Console.WriteLine($"Player dies due to {trap}");
            }
         }
