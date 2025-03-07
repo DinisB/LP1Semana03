@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pow2Until", "Pow2Until\Pow2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamousQuotes", "FamousQuotes\FamousQuotes.csproj", "{AFC88D89-302F-4A40-9E63-822174299894}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoPaSci", "RoPaSci\RoPaSci.csproj", "{7F6E57EC-1CDD-41F9-BE39-CC5E12438BCB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{AFC88D89-302F-4A40-9E63-822174299894}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFC88D89-302F-4A40-9E63-822174299894}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFC88D89-302F-4A40-9E63-822174299894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F6E57EC-1CDD-41F9-BE39-CC5E12438BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F6E57EC-1CDD-41F9-BE39-CC5E12438BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F6E57EC-1CDD-41F9-BE39-CC5E12438BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F6E57EC-1CDD-41F9-BE39-CC5E12438BCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
